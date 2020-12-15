@@ -11,6 +11,8 @@
       - [▶️ FII](content/anuario_fii.md)
   - [TLON](content/tlon.md)
   - [Envie seus dados!](content/comoparticipar.md)
+  
+- [Glossário](content/glossario.md)
 
 - Links  
   - [Uqbar](http://www.uqbar.com.br)
