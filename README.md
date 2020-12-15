@@ -6,7 +6,7 @@
 
 Essa Base de Conhecimento tem o propósito de difundir para o mercado as definições, os critérios, as práticas e a metodologia adotada pela Uqbar frente ao mercado de finanças estruturadas.
 
-> Algo não foi bem esclarecido ou gostaria de ver alguma informação que não encontrou aqui? Envie um e-mail para nós! [informacao@uqbar.com.br](informacao@uqbar.com.br) 
+> Algo não foi bem esclarecido ou gostaria de ver alguma informação que não encontrou aqui? Envie um e-mail para nós! [informacao@uqbar.com.br](mailto:informacao@uqbar.com.br) 
 
 
 ## Progresso
@@ -27,6 +27,7 @@ _Em ordem alfabética:_
 - [Alfredo](email)
 - [Douglas](email)
 - [Leonardo](email)
+- [Pedro](email)
 
 
 
