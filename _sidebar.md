@@ -1,6 +1,6 @@
 - Critérios e Metodologias
 
-  - [Ativo-lastro](content/ativolastro.md)
+  - [Ativo-lastro de FIDC](content/ativolastrofidc.md)
 
 - Rankings
 
