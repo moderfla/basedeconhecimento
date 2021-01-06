@@ -10,7 +10,7 @@
       - [▶️ FIDC](content/anuario_fidc.md)
       - [▶️ FII](content/anuario_fii.md)
 
-  - [Participe dos Anuários!](content/comoparticipar.md)
+  - [Participe dos Anuários!](mailto:informacao@uqbar.com.br?subject=Como%20fa%C3%A7o%20para%20participar%20dos%20Rankings%20Uqbar%3F)
   
 - [Glossário](content/glossario.md)
 
