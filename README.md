@@ -20,7 +20,7 @@ Essa Base de Conhecimento tem o propósito de difundir para o mercado as defini�
 
 ## Participe dos Rankings
 
-[Envie um email para nós](mailto:informacao@uqbar.com.br?subject=Como%20fa%C3%A7o%20para%20participar%20dos%20Rankings%20Uqbar%3F).
+[Entre em contato com a gente](mailto:informacao@uqbar.com.br?subject=Como%20fa%C3%A7o%20para%20participar%20dos%20Rankings%20Uqbar%3F).
 
 
 
