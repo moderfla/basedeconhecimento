@@ -9,25 +9,17 @@ Essa Base de Conhecimento tem o propósito de difundir para o mercado as defini�
 > Algo não foi bem esclarecido ou gostaria de ver alguma informação que não encontrou aqui? Envie um e-mail para nós! [informacao@uqbar.com.br](mailto:informacao@uqbar.com.br) 
 
 
-## Progresso
+## Conteúdo Preliminar
 
 - ✔️ Critérios adotados nos Rankings dos Anuários 
-- ❌ Critérios adotados nos Rankings do TLON
-- ❌ Definição das classes de ativo-lastro de FIDC
+- ✔️ Critérios adotados nos Rankings do TLON
+- ✔️ Definição das classes de ativo-lastro de FIDC
 
 
 ## Participe dos Rankings
 
 Confira a página [Como Participar?](content/comoparticipar.md).
 
-## Créditos
-
-_Em ordem alfabética:_
-
-- [Alfredo](email)
-- [Douglas](email)
-- [Leonardo](email)
-- [Pedro](email)
 
 
 
