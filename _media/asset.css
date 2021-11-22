@@ -3,6 +3,3 @@
   --sidebar-padding: 0 25px 0 350px;
 }
 
-.sidebar+.content {
-  margin-left: 10rem;
-}
