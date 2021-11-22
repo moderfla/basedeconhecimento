@@ -9,3 +9,20 @@
   margin-left: 10rem;
 } 
 
+/* Description of button, on cover page */
+.cover-page .cover-link-container .cover-link .link-description {
+  color: #fff;
+  font-size: 1.1rem;
+  border-top: 1px solid #fff;
+  padding-top: 2px;
+  z-index: 1;
+}
+
+.cover-page .cover-link-container .cover-link .link-title {
+  color: #fff;
+  font-size: 2rem;
+  z-index: 1;
+  text-shadow:
+      0 0 1px rgba(0, 0, 0, 0.2),
+      0 1px 0 rgba(0, 0, 0, 0.2);
+}
