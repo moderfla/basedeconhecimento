@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 :root {
   --base-font-family     : 'Inter', sans-serif;
-  --sidebar-width: 35rem;
+  --sidebar-width: 36rem;
   --sidebar-padding: 0 25px 0 350px;
 }
 
