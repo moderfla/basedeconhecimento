@@ -2,6 +2,11 @@
     left: 450px;
 }
 
+.sidebar {
+    width: 550px;
+    padding: 40px 0 0 300px;
+    background: #fafbfe;
+}
 
 ::-webkit-scrollbar {
   display: none;
